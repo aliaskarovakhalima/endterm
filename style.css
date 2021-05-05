@@ -73,7 +73,7 @@ header{
 }
 nav{
     position: fixed;
-    width: 33%;
+    width: 100%;
     z-index: 9999;
 }
 nav ul{
